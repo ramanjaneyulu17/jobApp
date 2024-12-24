@@ -11,7 +11,7 @@ import java.util.List;
 //@Data
 //@NoArgsConstructor
 //@AllArgsConstructor
-//@Component
+@Component
 public class JobPost {
     private int postId;
     private String postProfile;
